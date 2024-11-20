@@ -43,3 +43,26 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         self.wfile.write(b'Hello, Python!')
 ```
 
+ ## 2. Python in Various Domains
+
+Whether it's web development or artificial intelligence, Python finds its application in numerous areas. Here's a look at some of them:
+
+ - **Web Development**: Frameworks like Django and Flask.
+ - **Data Science**: Libraries such as Pandas, NumPy, and Matplotlib.
+ - **Machine Learning**: Tools like TensorFlow and Scikit-learn.
+
+### 2.1 Python for Data Analysis
+
+Using Python for data analysis is incredibly efficient due to libraries such as Pandas. Below is an
+ example of how you can use Pandas to read a CSV file and summarize the data:
+
+ ```python
+import pandas as pd
+
+ # Load data
+ data = pd.read_csv('data.csv')
+ 
+ # Display summary
+ print(data.describe())
+```
+
