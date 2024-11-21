@@ -89,5 +89,4 @@ Python's broad applicability and ease of use have contributed to its status as a
 
  ___
 
- Lorem ipsum dolor sit amet
 
