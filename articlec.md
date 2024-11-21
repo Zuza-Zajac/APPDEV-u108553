@@ -88,5 +88,6 @@ Python's broad applicability and ease of use have contributed to its status as a
  Enjoy exploring Python and remember, the best way to learn is by doing. Start writing your Python code today and become part of the global community of Python developers!
 
  ___
- 
+
+ Lorem ipsum dolor sit amet
 
